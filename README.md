@@ -1,26 +1,42 @@
-# Aws VSCode Development Setup
+# AWS Projects & Certifications Journey 🚀
 
-[![AWS](https://img.shields.io/badge/AWS-Toolkit-orange)](https://aws.amazon.com/visualstudiocode/)
-[![VSCode](https://img.shields.io/badge/VS-Code-blue)](https://code.visualstudio.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner-organge) - link to cert
+[AWS Badge](https://img.shields.io/badge/AWS-Solution%20Architect%20Associate-yellow) - link to cert
 
-A comprehensive guide/boilerplate for setting up a secure and efficient AWS development environment in VSCode.
+Welcome to my AWS learning journey repository! This space documents my path from AWS Cloud practitioner to solutions Architect Associate certification, including hands-on projects, study notes and resources.
 
-## 🚀 Features
+## 🎯 Goals 
+-[] AWS Cloud Practitioner Certification
+-[] AWS Solutions Architect Associate Certification
+-[] Build 5+ hands-on projects
+-[] Document Learning process
 
-- **Secure IAM Configuration** with least privilege principles
-- **Pre-configured VSCode settings** for optimal AWS development
-- **Infrastructure as Code** examples (CDK/Terraform)
-- **Local debugging** configurations for AWS Lambda
-- **Automation scripts** for environment setup
+## 📁 Repository Structure
 
-## 📋 Prerequisites
+## 📚 Certifications Path
+1. **AWS Cloud Practitioner** - *In Progress*
+   - Understanding of AWS Cloud concepts
+   - Basic AWS services and use cases
+   - Cloud economics and biling
 
-- [ ] AWS Account
-- [ ] VSCode Installed
-- [ ] Node.js/Python
+2. **AWS Solutions Architect Associate** - *Planned*
+   - Designing scalable systems
+   - High availability and fault tolerance
+   - Cost-optimized architectures
 
-## ⚡ Quick Start
+## 🛠️ Technologies Covered 
+- **Compute:** EC2, Lambda, ECS
+- **Storage:** S3, EBS, EFS
+- **Databases:** RDS, DynamoDB
+- **Networking:** VPC, Route 53, CloudFront
+- **Security:** IAM, KMS, Security Groups
+- **Management:** CloudWatch, CloudFormation
+
+## 🤝 Contributing
+This is a personal learning repository, but suggestions and feedback are welcome!
+
+## 📄 License
+This repository is for educational purposes.
 
 ```bash
 git clone https://github.com/yourusername/aws-vscode-setup-guide
